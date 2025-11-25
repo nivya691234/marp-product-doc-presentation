@@ -97,8 +97,3 @@ For $a=2$, $b=2$, and $f(n)=n$ we get $T(n)=O(n\log n)$.
 
 ---
 
-Thank you!
-
-**Presenter:** Financial Consulting Team  
-**Email:** 24f1002781@ds.study.iitm.ac.in
-
