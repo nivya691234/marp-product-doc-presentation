@@ -1,29 +1,20 @@
 /* @theme custom-theme */
 
-section {
-  font-family: 'Arial';
-  background-size: cover;
-  background-position: center;
-
-}
-
-footer {
-  position: absolute;
-  bottom: 10px;
-}
-/* @theme custom-theme */
-
+/* Global slide style */
 section {
   font-family: 'Arial', -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
 }
 
-/* Simple cover style */
+/* Cover slide */
 .cover {
   color: #fff;
   text-shadow: 0 2px 6px rgba(0,0,0,0.6);
 }
 
-/* Footer position and page number styling */
+/* Footer */
 footer {
   position: absolute;
   bottom: 14px;
@@ -32,7 +23,7 @@ footer {
   color: #444;
 }
 
-/* Show the email when the slide sets a data-email attribute */
+/* Auto email (if data-email is set) */
 [data-email]::after {
   content: attr(data-email);
   position: absolute;
@@ -42,12 +33,12 @@ footer {
   color: rgba(0,0,0,0.6);
 }
 
-/* Accent styles */
+/* Accent text */
 .accent {
   color: #1e88e5;
 }
 
-/* Slight dark overlay helper for background slides */
+/* Dark overlay helper for background slides */
 .bg-overlay::before {
   content: '';
   position: absolute;
