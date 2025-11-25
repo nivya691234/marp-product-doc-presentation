@@ -9,7 +9,8 @@ email: "24f1002781@ds.study.iitm.ac.in"
 ---
 
 <!-- _class: lead -->
-<!-- _background: #001f3f -->
+<!-- _background: url('assets/bg.jpg') -->
+
 
 # **Q4 2025 Earnings Report**
 ### Financial Performance & Strategic Insights
