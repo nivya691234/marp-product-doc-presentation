@@ -8,7 +8,8 @@ footer: "Contact: 24f1002781@ds.study.iitm.ac.in"
 ---
 
 <!-- _class: cover bg-overlay -->
-<!-- _background: url('assets/bg.jpg') -->
+<!-- _background: "assets/bg.jpg" -->
+
 
 # Q4 2025 Earnings Report
 
