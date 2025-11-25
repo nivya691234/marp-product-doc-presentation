@@ -7,7 +7,6 @@ paginate: true
 footer: "Contact: 24f1002781@ds.study.iitm.ac.in"
 ---
 
-<!-- Cover slide with data-email attribute (displayed by theme) -->
 <!-- _class: cover bg-overlay -->
 <!-- _background: url('assets/bg.jpg') -->
 
