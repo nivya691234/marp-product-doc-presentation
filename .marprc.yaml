@@ -1,2 +1,2 @@
 themeSet:
-  - themes/custom-theme.css
+  - ./themes/custom-theme.css
